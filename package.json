@@ -1,6 +1,6 @@
 {
   "name": "srt-subtitle-timestamp-parser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Reads SRT subtitle files and returns validated cues with timing data.",
   "type": "module",
   "main": "src/index.js",
